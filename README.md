@@ -1,6 +1,3 @@
-# number-guessing-game
-A simple Python number guessing game for beginners.
-
 # 🎯 Number Guessing Game
 
 A simple number guessing game made with Python.
