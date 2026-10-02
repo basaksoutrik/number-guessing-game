@@ -28,6 +28,6 @@ Run the following command:
 
 python game.py
 
-## Author
+## ⚡ Author
 
-Soutrik
+𝑺.𝑩. — 𝑺𝒐𝒖𝒕𝒓𝒊𝒌 𝑩𝒂𝒔𝒂𝒌
